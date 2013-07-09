@@ -27,7 +27,7 @@ vagrant awsinfo -m <hostName>
 * Clone repository 
 * `cd vagrant.loadbancer`
 * `git submodule init`
-* `get submodule udpate`
+* `git submodule udpate`
 * `vagrant up`
 
 
